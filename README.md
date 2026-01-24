@@ -6,9 +6,9 @@
 
 ---
 
-### 🚀 Технологический рацион:
+### 🚀 My Stack:
 
-| Слой | Инструменты |
+| Slice | Stack |
 | :--- | :--- |
 | **Frontend** | React (Next.js/Vite), TypeScript, TanStack (Query/Router), Tailwind |
 | **Backend/Runtime** | Bun 🥯, Hono 🔥 |
@@ -21,8 +21,8 @@
 -->
 ---
 
-### 📫 Как меня найти:
-[![](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/aw1nger)
+### 📫 Contact me:
+[![](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/aw1nger) 
 [![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aw1nger/)
 
 <!--
