@@ -1,7 +1,6 @@
 ## Hi there 👋
 
-### 🛠 Team Lead & Frontend Developer | Architect of Chaos & Logic
-
+### 🛠 Team Lead & Frontend Developer
 Я превращаю сложные идеи в чистый код, а хаос в бэклоге — в работающие продукты.
 
 ---
@@ -13,7 +12,7 @@
 | **Frontend** | React (Next.js/Vite), TypeScript, TanStack (Query/Router), Tailwind |
 | **Backend/Runtime** | Bun 🥯, Hono 🔥 |
 | **DevOps** | Docker, GitHub Actions, CI/CD Pipelines |
-| **State/Architecture** | Zustand, Monorepos (Turborepo/Workspaces), FSD |
+| **Architecture** | Monorepos (Turborepo/Workspaces), FSD |
 
 <!--
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=aw1nger&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
