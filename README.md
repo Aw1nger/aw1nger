@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-### 🛠 Team Lead & Frontend Developer
+### 🛠 Frontend Developer
 
 ---
 
